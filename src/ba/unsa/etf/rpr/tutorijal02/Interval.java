@@ -66,7 +66,7 @@ public class Interval {
     public Interval intersect(Interval i){
         Interval presjekIntervala = new Interval();
 
-        return presjekIntervala
+        return presjekIntervala;
     }
     public Interval intersect(Interval i1,Interval i2){
         return i1.intersect(i2);
